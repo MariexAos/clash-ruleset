@@ -142,7 +142,7 @@ payload:
   - DOMAIN-SUFFIX,iam.soy
   - DOMAIN-SUFFIX,registry.google
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
-  - DOMAIN-SUFFIX,はじめよう.みんな
+  # - DOMAIN-SUFFIX,はじめよう.みんな
   ## >> Google-scholar
   # - DOMAIN-SUFFIX,ar
   # - DOMAIN-SUFFIX,au
