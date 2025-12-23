@@ -144,34 +144,34 @@ payload:
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN-SUFFIX,はじめよう.みんな
   ## >> Google-scholar
-  - DOMAIN-SUFFIX,ar
-  - DOMAIN-SUFFIX,au
-  - DOMAIN-SUFFIX,bo
-  - DOMAIN-SUFFIX,br
-  - DOMAIN-SUFFIX,co
-  - DOMAIN-SUFFIX,cu
-  - DOMAIN-SUFFIX,do
-  - DOMAIN-SUFFIX,ec
-  - DOMAIN-SUFFIX,eg
-  - DOMAIN-SUFFIX,gt
-  - DOMAIN-SUFFIX,hk
-  - DOMAIN-SUFFIX,ly
-  - DOMAIN-SUFFIX,mx
-  - DOMAIN-SUFFIX,my
-  - DOMAIN-SUFFIX,ni
-  - DOMAIN-SUFFIX,pa
-  - DOMAIN-SUFFIX,pe
-  - DOMAIN-SUFFIX,ph
-  - DOMAIN-SUFFIX,pk
-  - DOMAIN-SUFFIX,pr
-  - DOMAIN-SUFFIX,py
-  - DOMAIN-SUFFIX,sg
-  - DOMAIN-SUFFIX,sv
-  - DOMAIN-SUFFIX,tr
-  - DOMAIN-SUFFIX,tw
-  - DOMAIN-SUFFIX,ua
-  - DOMAIN-SUFFIX,uy
-  - DOMAIN-SUFFIX,vn
+  # - DOMAIN-SUFFIX,ar
+  # - DOMAIN-SUFFIX,au
+  # - DOMAIN-SUFFIX,bo
+  # - DOMAIN-SUFFIX,br
+  # - DOMAIN-SUFFIX,co
+  # - DOMAIN-SUFFIX,cu
+  # - DOMAIN-SUFFIX,do
+  # - DOMAIN-SUFFIX,ec
+  # - DOMAIN-SUFFIX,eg
+  # - DOMAIN-SUFFIX,gt
+  # - DOMAIN-SUFFIX,hk
+  # - DOMAIN-SUFFIX,ly
+  # - DOMAIN-SUFFIX,mx
+  # - DOMAIN-SUFFIX,my
+  # - DOMAIN-SUFFIX,ni
+  # - DOMAIN-SUFFIX,pa
+  # - DOMAIN-SUFFIX,pe
+  # - DOMAIN-SUFFIX,ph
+  # - DOMAIN-SUFFIX,pk
+  # - DOMAIN-SUFFIX,pr
+  # - DOMAIN-SUFFIX,py
+  # - DOMAIN-SUFFIX,sg
+  # - DOMAIN-SUFFIX,sv
+  # - DOMAIN-SUFFIX,tr
+  # - DOMAIN-SUFFIX,tw
+  # - DOMAIN-SUFFIX,ua
+  # - DOMAIN-SUFFIX,uy
+  # - DOMAIN-SUFFIX,vn
   - DOMAIN-SUFFIX,scholar.google.ae
   - DOMAIN-SUFFIX,scholar.google.at
   - DOMAIN-SUFFIX,scholar.google.be
