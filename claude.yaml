@@ -6,5 +6,5 @@ payload:
   - IP-CIDR,160.79.104.0/23
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,intercom.io
-  - PROCESS-NAME,*claude*
+  - PROCESS-NAME-REGEX,*claude*
 
