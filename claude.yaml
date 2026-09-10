@@ -7,4 +7,9 @@ payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,intercom.io
   - PROCESS-NAME-REGEX,(?i)claude
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,braintreegateway.com
+
 
