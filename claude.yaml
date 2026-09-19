@@ -11,5 +11,7 @@ payload:
   - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,paypal.me
   - DOMAIN-SUFFIX,braintreegateway.com
+  - DOMAIN-SUFFIX,siftsciene.com
+  
 
 
