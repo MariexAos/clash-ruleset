@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,paypal.me
   - DOMAIN-SUFFIX,braintreegateway.com
   - DOMAIN-SUFFIX,siftscience.com
+  - DOMAIN-SUFFIX,datadoghq.com
   - DST-PORT,123
   
 
