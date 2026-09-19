@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,braintreegateway.com
   - DOMAIN-SUFFIX,siftscience.com
   - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
   - DST-PORT,123
   
 
